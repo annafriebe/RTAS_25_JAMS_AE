@@ -2,6 +2,10 @@ ARTIFACT EVALUATION FOR THE PAPER ON
 
   "Nip It In the Bud: Job Acceptance Multi-Server"
 
+at RTAS 2025, 
+
+Paper companion site with the artifact as a zip file:
+https://retis.santannapisa.it/~tommaso/papers/rtas25.php
 
 DESCRIPTION
 
