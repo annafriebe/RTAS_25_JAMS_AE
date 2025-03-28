@@ -24,5 +24,5 @@ def save_n(n, directory, substring):
         save_times(save_filename, times)
 
             
-save_n(10, "ugv_ex_outputs/", "long_")
-save_n(10, "ugv_ex_outputs/", "short_")
+save_n(10, "../MPC_times/MPC_long_10/", "long_")
+save_n(10, "../MPC_times/MPC_short_10/", "short_")
