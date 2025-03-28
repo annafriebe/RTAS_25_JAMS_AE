@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$1" == "" -o "$1" == "-h" -o "$1" == "--help" ]; then
+    echo "Usage: <commands...> | $(basename $0) <commands...>"
+    exit 1
+fi
+
+read -r line
+echo "$line"
+"$@"
